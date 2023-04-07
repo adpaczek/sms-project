@@ -1,0 +1,19 @@
+Project: "School Management System" includes Students, Teachers and then the funds using OOP
+
+//Money management system for school//
+- keep track of students total fees
+- fees already paid
+- teachers salary
+
+//School//
+- teachers
+- students
+- total money earned
+- total money spent (teachers salary)
+
+//Teacher//
+id, name, salary, subject
+
+//Student
+id, name, grade, fees paid, fees total
+
